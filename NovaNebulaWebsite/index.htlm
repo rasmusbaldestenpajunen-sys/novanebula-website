@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NovaNebula - The Exploding Memecoin</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>NovaNebula</h1>
+            <p class="tagline">$NOVA - To the Stars and Beyond!</p>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <img src="novanebula-logo.png" alt="NovaNebula Logo" class="logo">
+            <h2>Welcome to the Nebula</h2>
+            <p>NovaNebula ($NOVA) is the ultimate memecoin exploding into the universe! Inspired by cosmic blasts and infinite possibilities, NovaNebula isn't just a token—it's a journey to the stars. With a community-driven approach, zero transaction taxes, and plans for space-themed NFT drops, we're set to 'nova' the market. Forget moonshots; we're aiming for supernovas! Join the nebula worldwide and watch your portfolio explode. #NovaNebula #ToTheStars</p>
+            <a href="#join" class="cta-button">Join Now</a>
+        </div>
+    </section>
+
+    <section class="features">
+        <div class="container">
+            <h2>Why NovaNebula?</h2>
+            <ul>
+                <li>🚀 Community-Powered Growth</li>
+                <li>🌌 Zero Taxes on Transactions</li>
+                <li>⭐ Upcoming NFT Collections</li>
+                <li>💥 Viral Meme Potential</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="join" class="join">
+        <div class="container">
+            <h2>Get Involved</h2>
+            <p>Buy $NOVA on your favorite DEX, join our Telegram/Discord, and spread the word!</p>
+            <form>
+                <input type="email" placeholder="Enter your email for updates">
+                <button type="submit">Subscribe</button>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 NovaNebula. All rights reserved. Not financial advice—DYOR!</p>
+        </div>
+    </footer>
+</body>
+</html>
